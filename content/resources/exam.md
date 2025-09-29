@@ -5,6 +5,8 @@ description: Take-home exam on advanced multiple attribute decision making (MADM
 file: /courses/2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007/0e1576ca3ef06fb567ce52cb9513a532_exam.pdf
 file_size: 89839
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

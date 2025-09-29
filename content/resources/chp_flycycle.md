@@ -7,6 +7,8 @@ description: In his class project, student John Decker Ringo looked at materials
 file: /courses/2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007/90caf715afa850b76dc905a028d9b17b_chp_flycycle.jpg
 file_size: 64906
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
